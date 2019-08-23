@@ -9,7 +9,7 @@ public class Table{
     int input = sc.nextInt();
     
     for(int counter = 1; counter<=10; counter++){
-      System.out.println( input + "x" + counter +  " = "input*counter);
+      System.out.println( input + "x" + counter +  " = " + input*counter);
     }
     
   }
